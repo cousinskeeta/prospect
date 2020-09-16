@@ -1,1 +1,11 @@
+brotlipy==0.7.0
 certifi==2020.6.20
+cffi @ file:///opt/concourse/worker/volumes/live/199e7db2-0b3a-46e0-4230-da33c5d6c6de/volume/cffi_1598370769235/work
+cryptography @ file:///opt/concourse/worker/volumes/live/a7ee5cc5-41f4-40e1-6671-3e164687c6e0/volume/cryptography_1598892026615/work
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084cee4e9492/volume/pysocks_1594394636991/work
+selenium @ file:///opt/concourse/worker/volumes/live/f54cbba5-7632-4bae-5fbd-3ec06aa93a51/volume/selenium_1594416153038/work
+six==1.15.0
+urllib3 @ file:///tmp/build/80754af9/urllib3_1597086586889/work
