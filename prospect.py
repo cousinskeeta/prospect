@@ -164,7 +164,7 @@ from pyhunter import PyHunter
 emails = []
 conf_scores = []
 for person, company in zip(data['names'], data['companies']):
-    hunter = PyHunter('cd834d6856be0e680ee1a169a34562cca4c6f791')
+    hunter = PyHunter(parameters.hunterio_api)
     try:
         res = hunter.email_finder(company= company, full_name= person)
     except:
